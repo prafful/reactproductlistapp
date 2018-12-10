@@ -1,0 +1,39 @@
+{
+
+    "products":[
+        {
+            "id":1,
+            "title":"One title",
+            "upVote":21,
+            "downVote":18,
+            "description":"Hello from one title in reach library.",
+            "image":"./images/p1.jpg"
+        },
+        {
+            "id":2,
+            "title":"Two title",
+            "upVote":21,
+            "downVote":18,
+            "description":"Hello from two title in reach library.",
+            "image":"./images/p2.jpg"
+        },
+        {
+            "id":3,
+            "title":"Three title",
+            "upVote":21,
+            "downVote":18,
+            "description":"Hello from three title in reach library.",
+            "image":"./images/p3.jpg"
+        },
+        {
+            "id":4,
+            "title":"Four title",
+            "upVote":21,
+            "downVote":18,
+            "description":"Hello from four title in reach library.",
+            "image":"./images/p4.jpg"
+        }
+    ]
+
+
+}

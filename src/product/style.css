@@ -1,0 +1,12 @@
+.avatar{
+    width: 10%;
+    height: 10%;
+    border-radius: 10px;
+    border:1px solid blue;
+    vertical-align: middle;
+}
+
+
+.card{
+    margin-bottom: 10px;
+}
